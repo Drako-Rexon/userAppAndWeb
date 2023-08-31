@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "19913071365",
+    "project_id": "eeat-916d8",
+    "storage_bucket": "eeat-916d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19913071365:android:1de3a419f92e58e4ec356c",
+        "android_client_info": {
+          "package_name": "com.abranfood.eeat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZDeg6ReKyqJrl3Xm0hX67jSeVafsFFWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
